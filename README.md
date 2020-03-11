@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 135
+## Companies - 134
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
@@ -50,7 +50,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Drift | Required | Restricted | Restricted | Restricted | 2020-03-10 |
 | Drop | Required | Restricted | Restricted | Restricted | 2020-03-09 |
 | Dropbox | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
-| eBay | ? | Restricted | ? | Restricted | 2020-03-04 |
+| eBay | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
 | Expedia | Encouraged, some Required | Restricted | ? | ? | 2020-03-06 |
 | f5 Networks | Encouraged for Seattle and Bay Area until 3/23 | Restricted | Restricted | Restricted | 2020-03-05 |
 | Facebook[[1]](https://www.geekwire.com/2020/facebook-contractor-seattle-tests-positive-coronavirus-company-closes-office/) | Encouraged | Restricted | Restricted | Restricted | 2020-03-04 |
@@ -87,7 +87,6 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | NASA Ames[[1]](https://twitter.com/scottbudman/status/1237054027201794049) | Required | ? | ? | ? | 2020-03-09 |
 | NCR Corporation | Encouraged | Restricted | Restricted | Restricted | 2020-03-09 |
 | NetApp | ? | Restricted | ? | ? | 2020-03-09 |
-| Netguru[[1]](https://www.linkedin.com/posts/netguru_coronavirus-activity-6643166410015035392-V5E8) | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | Netflix | Encouraged, Geo-specific | Restricted | Restricted | Restricted | 2020-03-11 |
 | Nextdoor | Encouraged | ? | ? | ? | 2020-03-09 |
 | Niteo | Required | Restricted | Restricted | Restricted | 2020-03-11 |
